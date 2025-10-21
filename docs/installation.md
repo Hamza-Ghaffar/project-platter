@@ -42,7 +42,7 @@ Internet connection (for GitHub API usage)
 
 🚀 Project Platter — GenAI Project Bootstrapper
 Project name: ai_automation_lab
-Author name: Hamza Ghaffar
+Author name: Hamza-Ghaffar
 GitHub repo URL (or leave blank):
 ...
 🎉 Project 'ai_automation_lab' created successfully.

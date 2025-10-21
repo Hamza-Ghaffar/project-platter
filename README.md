@@ -1,9 +1,4 @@
-Excellent, Hamza 🔥 — got it.
-Here’s your **fully polished, ready-to-publish `README.md`** for **Project Platter**, perfectly formatted for **GitHub**, **PyPI**, and **MkDocs** integration.
 
-Everything is filled in — including working badges, feature highlights, command usage, documentation links, and acknowledgments to OpenAI and GenAI tooling.
-
----
 
 ````markdown
 # 🧠 Project Platter
@@ -11,14 +6,14 @@ Everything is filled in — including working badges, feature highlights, comman
 [![PyPI version](https://img.shields.io/pypi/v/project-platter.svg)](https://pypi.org/project/project-platter/)
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Documentation Status](https://img.shields.io/badge/docs-online-brightgreen.svg)](https://HamzaGhaffar.github.io/Test_Platter/)
-[![Build](https://img.shields.io/github/actions/workflow/status/HamzaGhaffar/project-platter/ci.yml?branch=main)](https://github.com/HamzaGhaffar/project-platter/actions)
+[![Documentation Status](https://img.shields.io/badge/docs-online-brightgreen.svg)](https://Hamza-Ghaffar.github.io/Test_Platter/)
+[![Build](https://img.shields.io/github/actions/workflow/status/Hamza-Ghaffar/project-platter/ci.yml?branch=main)](https://github.com/Hamza-Ghaffar/project-platter/actions)
 
 ---
 
 ## 🚀 Overview
 
-**Project Platter** is an open-source Python automation framework by **Hamza Ghaffar**, built to streamline the setup and management of automation, agentic, and AI-based projects.
+**Project Platter** is an open-source Python automation framework by **Hamza-Ghaffar**, built to streamline the setup and management of automation, agentic, and AI-based projects.
 
 It’s a **plug-and-play project scaffolding system** designed for engineers, researchers, and developers who want to:
 
@@ -43,7 +38,7 @@ pip install project-platter
 Or install from source:
 
 ```bash
-git clone https://github.com/HamzaGhaffar/project-platter.git
+git clone https://github.com/Hamza-Ghaffar/project-platter.git
 cd project-platter
 pip install -e .
 ```
@@ -139,7 +134,7 @@ project-platter github init
 ## 📘 Documentation
 
 Comprehensive documentation will be hosted soon at:
-👉 **[https://HamzaGhaffar.github.io/Test_Platter](https://HamzaGhaffar.github.io/Test_Platter)**
+👉 **[https://Hamza-Ghaffar.github.io/Test_Platter](https://Hamza-Ghaffar.github.io/Test_Platter)**
 
 The documentation includes:
 
@@ -189,7 +184,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ```
 MIT License
 
-Copyright (c) 2025 Hamza Ghaffar
+Copyright (c) 2025 Hamza-Ghaffar
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -205,7 +200,7 @@ furnished to do so, subject to the following conditions:
 
 ## 🧩 Credits & Acknowledgments
 
-**Author:** [Hamza Ghaffar](https://github.com/HamzaGhaffar)
+**Author:** [Hamza-Ghaffar](https://github.com/Hamza-Ghaffar)
 **Role:** Software Automation Engineer & Researcher
 
 This project leverages insights, APIs, and design inspiration from:
@@ -220,7 +215,7 @@ This project leverages insights, APIs, and design inspiration from:
 
 If you find **Project Platter** helpful:
 
-* ⭐ Star the repo on GitHub → [HamzaGhaffar/project-platter](https://github.com/HamzaGhaffar/project-platter)
-* 🪶 Report issues or suggest enhancements in the [Issues tab](https://github.com/HamzaGhaffar/project-platter/issues)
+* ⭐ Star the repo on GitHub → [Hamza-Ghaffar/project-platter](https://github.com/Hamza-Ghaffar/project-platter)
+* 🪶 Report issues or suggest enhancements in the [Issues tab](https://github.com/Hamza-Ghaffar/project-platter/issues)
 
 ---

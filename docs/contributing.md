@@ -7,7 +7,7 @@ Contributions are welcome!
 ## 🧱 Setup
 
 ```bash
-git clone https://github.com/hamzaghaffar/project-platter.git
+git clone https://github.com/Hamza-Ghaffar/project-platter.git
 cd project-platter
 pip install -e .
 
@@ -39,4 +39,4 @@ mkdocs gh-deploy
 
 
 Docs will appear at:
-👉 https://hamzaghaffar.github.io/project-platter/
+👉 https://Hamza-Ghaffar.github.io/project-platter/

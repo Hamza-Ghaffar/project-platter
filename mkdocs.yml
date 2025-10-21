@@ -1,7 +1,7 @@
 site_name: Project Platter
-site_description: "An intelligent GenAI and Automation project bootstrapper by Hamza Ghaffar"
-site_author: Hamza Ghaffar
-repo_url: https://github.com/hamzaghaffar/project-platter
+site_description: "An intelligent GenAI and Automation project bootstrapper by Hamza-Ghaffar"
+site_author: Hamza-Ghaffar
+repo_url: https://github.com/Hamza-Ghaffar/project-platter
 theme:
   name: material
   logo: assets/logo.png

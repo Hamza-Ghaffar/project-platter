@@ -1,6 +1,6 @@
 # 🧠 Project Platter
 
-**Project Platter** is an intelligent **GenAI & Automation Project Bootstrapper** built by **Hamza Ghaffar**.  
+**Project Platter** is an intelligent **GenAI & Automation Project Bootstrapper** built by **Hamza-Ghaffar**.  
 It automates the creation of professional-grade project structures with Git/GitHub integration, ready-to-deploy templates, and clean code organization.
 
 ---
@@ -51,7 +51,7 @@ Project Platter bootstraps a **standard AI automation project layout**.
 
 ## 💬 Author
 
-**Hamza Ghaffar**  
+**Hamza-Ghaffar**  
 Software Automation Engineer & AI Researcher  
 [GitHub Profile →](https://github.com/hamza-ghaffar)
 
