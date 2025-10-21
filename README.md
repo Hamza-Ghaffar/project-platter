@@ -1,15 +1,5 @@
-
-
 ````markdown
 # 🧠 Project Platter
-
-[![PyPI version](https://img.shields.io/pypi/v/project-platter.svg)](https://pypi.org/project/project-platter/)
-[![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Documentation Status](https://img.shields.io/badge/docs-online-brightgreen.svg)](https://Hamza-Ghaffar.github.io/Test_Platter/)
-[![Build](https://img.shields.io/github/actions/workflow/status/Hamza-Ghaffar/project-platter/ci.yml?branch=main)](https://github.com/Hamza-Ghaffar/project-platter/actions)
-
----
 
 ## 🚀 Overview
 
