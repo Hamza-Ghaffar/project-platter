@@ -1,0 +1,16 @@
+'''
+
+# Python ignore patterns
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env/
+.venv/
+logs/
+*.log
+.ipynb_checkpoints
+data/
+outputs/
+
+'''

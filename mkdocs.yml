@@ -1,0 +1,29 @@
+site_name: Project Platter
+site_description: "An intelligent GenAI and Automation project bootstrapper by Hamza Ghaffar"
+site_author: Hamza Ghaffar
+repo_url: https://github.com/hamzaghaffar/project-platter
+theme:
+  name: material
+  logo: assets/logo.png
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - content.code.copy
+    - navigation.top
+    - search.suggest
+    - toc.integrate
+plugins:
+  - search
+  - mkdocstrings:
+      handlers:
+        python:
+          options:
+            docstring_style: google
+            show_source: true
+nav:
+  - 🧠 Overview: index.md
+  - ⚙️ Installation: installation.md
+  - 🧩 CLI Details: cli.md
+  - 🧰 GitHub Integration: github.md
+  - 📘 API Reference: api.md
+  - 🤝 Contributing: contributing.md
